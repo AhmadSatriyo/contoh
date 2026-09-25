@@ -21,6 +21,7 @@ Repository ini digunakan untuk mengumpulkan laporan praktikum, source code, sert
 1. Buka Repository "Komunal" dan klik pertemuan yang sesuai.
    <img width="1668" height="548" alt="image" src="https://github.com/user-attachments/assets/2ebe17ec-5924-491c-8a90-546a10a3e416" />
 3. Klik folder "Tugas"
+   <img width="1836" height="468" alt="image" src="https://github.com/user-attachments/assets/de3421b8-0637-43c8-ae6a-201b99e3092b" />
 5. Sesuaikan judul laporan praktikum dengan judul pada file tugas tersebut atau pada PPT materi pertemuan tersebut.
    <img width="761" height="134" alt="image" src="https://github.com/user-attachments/assets/b26bcc55-1564-43c3-8ae7-b3a2d6d51ebe" />
    <img width="802" height="272" alt="image" src="https://github.com/user-attachments/assets/874bf3ac-7a62-42e3-b8c8-caf8c3df04ac" />
